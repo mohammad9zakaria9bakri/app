@@ -9,8 +9,8 @@
 
 #wrapper {
     width: 400%;
-    height: 100%;
-    transition: transfrom 0.05s ease-in-out;
+    height: 90%;
+    transition: transform 0.8s ease-in-out;
 }
 
 #wrapper .content {
